@@ -61,48 +61,17 @@ Our platform provides:
 
 ---
 
-## 📅 Future Plan
 
-- **Stage 1:** Complete backend and database setup
-- **Stage 2:** Prototype and internal testing
-- **Stage 3:** Integration with college website
-- **Stage 4:** MVP launch and user feedback
-- **Stage 5:** Product commercialization
+## 👨‍💻 Developer
 
----
+**Sanjay N** 🚀 Freelancer
 
-## 🏆 If Funded
-
-Prize money will be used for:
-- Initial server hosting
-- Software licensing
-- Operational expenses
+🌐 Portfolio: https://sanjayn.me  
+💼 LinkedIn: https://linkedin.com/in/sanjayn29  
+🐙 GitHub: https://github.com/sanjayn29  
 
 ---
 
-## 🤝 In Collaboration With
+## ⭐ Support
 
-- **Kongu Engineering College (KEC)**
-- **KEC IDEATHON Initiative**
-
----
-
-## 📅 Date of Presentation
-
-🗓️ 8th September 2023
-
----
-
-## 📷 Screenshots
-
-(Include UI mockups, wireframes, or live app screenshots here once available)
-
----
-
-## 📬 Contact
-
-For queries or contributions, please contact any team member or the project mentor.
-
----
-
-> “Connecting the past with the present to empower the future.”
+If you like this project, consider giving it a **star ⭐ on GitHub** to support the development.
